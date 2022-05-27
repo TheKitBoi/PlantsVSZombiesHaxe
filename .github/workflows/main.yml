@@ -41,6 +41,7 @@ jobs:
           haxelib install flixel-tools
           haxelib install flixel-ui
           haxelib install flixel-addons
+          haxelib install discord_rpc
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
           haxelib list
@@ -81,6 +82,7 @@ jobs:
           haxelib install flixel-tools
           haxelib install flixel-ui
           haxelib install flixel-addons
+          haxelib install discord_rpc
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
           haxelib list
@@ -119,6 +121,7 @@ jobs:
           haxelib install flixel-tools
           haxelib install flixel-ui
           haxelib install flixel-addons
+          haxelib install discord_rpc
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
           haxelib list
@@ -156,6 +159,7 @@ jobs:
           haxelib install flixel-tools
           haxelib install flixel-ui
           haxelib install flixel-addons
+          haxelib install discord_rpc
           haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc
           haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons
           haxelib list
