@@ -12,12 +12,10 @@ import flixel.FlxState;
 import flixel.group.FlxSpriteGroup;
 import flixel.ui.FlxButton;
 import flixel.util.FlxColor;
+import discord_rpc.DiscordRpc;
 
 using flixel.util.FlxSpriteUtil;
 
-#if windows
-import discord_rpc.DiscordRpc;
-#end
 
 class MainMenuState extends FlxState
 {
