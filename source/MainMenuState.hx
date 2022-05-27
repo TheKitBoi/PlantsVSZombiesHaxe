@@ -16,6 +16,9 @@ import discord_rpc.DiscordRpc;
 
 using flixel.util.FlxSpriteUtil;
 
+#if windows
+import discord_rpc.DiscordRpc;
+#end
 
 class MainMenuState extends FlxState
 {
